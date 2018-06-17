@@ -1,6 +1,6 @@
 # windbg-info
 
-The project intends to be a repository for links related to windbg that I found usefull, interesting or have used and wish to keep in an easelly accessible list. 
+The project intends to be a repository for links related to windbg that I found useful, interesting or have used and wish to keep in an easelly accessible list. 
 
 ## WinDbg Preview
 I have not used the new version but it looks promessing.
