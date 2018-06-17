@@ -1,6 +1,6 @@
 # windbg-info
 
-The project intends to be a repository of useful links related to windbg that I found usefull, interesting or have used and wish to keep a easelly accessible list. 
+The project intends to be a repository for links related to windbg that I found usefull, interesting or have used and wish to keep in an easelly accessible list. 
 
 ## WinDbg Preview
 I have not used the new version but it looks promessing.
@@ -10,8 +10,6 @@ I have not used the new version but it looks promessing.
 - [WinDbg, Debugger Objects, and JavaScript! Oh, My!](https://www.osr.com/blog/2017/05/18/windbg-debugger-objects-javascript-oh/)
 
 ## WinDbg
-
-###Useful links
 
 #### General links
 - [http://www.windbg.org/](http://www.windbg.org/)
